@@ -1,7 +1,1 @@
-# models
-# models
-# models
-# models
-# models
-# models
-# models
+projectC pmg,yolov5,mobilenet models repository
